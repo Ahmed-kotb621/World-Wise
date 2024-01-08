@@ -4,7 +4,9 @@
 * EsLint
 * React Router
 * Css Modules
-* Hooks (useState, useEffect,useNavigate,useParams)
+* Context API
+* Hooks (useState, useEffect,useNavigate,useParams,useContext)
+* Leaflet (3rd party library)
 ```
 
 
