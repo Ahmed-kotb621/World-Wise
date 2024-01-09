@@ -49,7 +49,7 @@ function CitiesProvider({ children }) {
 function useCities() {
   const context = useContext(CitiesContext);
 
-  if (context === undefined) throw new Error("Cities Context out of Zone");
+  if (context === undefined) throw new Error("Cities Context Error");
   return context;
 }
 
