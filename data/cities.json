@@ -35,6 +35,18 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Ramenskoye",
+      "country": "Russian Federation (the)",
+      "date": "2024-01-10T08:31:10.181Z",
+      "notes": "one",
+      "emoji": "🇷🇺",
+      "position": {
+        "lat": "55.52863052257191",
+        "lng": "37.96875000000001"
+      },
+      "id": 98443203
     }
   ]
 }
