@@ -5,8 +5,9 @@
 * React Router
 * Css Modules
 * Context API
-* Hooks (useState, useEffect,useNavigate,useParams,useContext)
+* Hooks (useState, useEffect,useNavigate,useParams,useContext,useReducer)
 * Leaflet (3rd party library)
+* Authentication
 ```
 
 ## Screen Shoots
