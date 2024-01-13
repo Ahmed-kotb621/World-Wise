@@ -1,4 +1,4 @@
-## Tools
+## Tools 
 ```
 * Vite (build Tool)
 * EsLint
@@ -8,6 +8,7 @@
 * Hooks (useState, useEffect,useNavigate,useParams,useContext,useReducer)
 * Leaflet (3rd party library)
 * Authentication
+* Performance (useCallback, useMemo, lazy Loading)
 ```
 
 ## Screen Shoots
