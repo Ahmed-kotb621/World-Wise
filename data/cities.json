@@ -37,16 +37,16 @@
       "id": 98443197
     },
     {
-      "cityName": "Ramenskoye",
-      "country": "Russian Federation (the)",
-      "date": "2024-01-10T08:31:10.181Z",
-      "notes": "one",
-      "emoji": "🇷🇺",
+      "cityName": "Cairo",
+      "country": "Egypt",
+      "date": "2024-01-13T08:18:13.738Z",
+      "notes": "",
+      "emoji": "🇪🇬",
       "position": {
-        "lat": "55.52863052257191",
-        "lng": "37.96875000000001"
+        "lat": "30.041473059077415",
+        "lng": "31.23956831192538"
       },
-      "id": 98443203
+      "id": 98443198
     }
   ]
 }

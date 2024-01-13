@@ -22,7 +22,7 @@ function City() {
   const { id } = useParams();
   useEffect(() => {
     getCity(id);
-  }, [id]);
+  }, [id, getCity]);
   if (isLoading) return <Spinner />;
   return (
     <div className={styles.city}>

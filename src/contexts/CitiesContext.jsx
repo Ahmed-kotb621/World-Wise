@@ -106,7 +106,6 @@ function CitiesProvider({ children }) {
 
   async function createCity(newCity) {
     dispatch({ type: "loading" });
-
     try {
       const res = await fetch(`${BASE_URL}/cities`, {
         method: "POST",

@@ -9,7 +9,7 @@ export default function Login() {
   const { login, isAuthenticated } = useAuth();
   const navigate = useNavigate();
 
-  const [email, setEmail] = useState("jack@example.com");
+  const [email, setEmail] = useState("ahmed@example.com");
   const [password, setPassword] = useState("qwerty");
   function hanleSubmit(e) {
     e.preventDefault();
